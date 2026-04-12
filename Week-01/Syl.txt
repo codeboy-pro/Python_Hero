@@ -1,0 +1,42 @@
+Introduction to Programming
+Completed
+Why Programming?
+Completed
+Programming for Everybody
+Not Started
+Any Prerequisites?
+Not Started
+Where to start?
+Not Started
+Why do we have so many languages?
+Not Started
+How to go about programming?
+Not Started
+Why to learn programming?
+Not Started
+What is programming?
+Not Started
+How to give instructions?
+Not Started
+Introduction to Scratch
+Not Started
+Introduction to Loops
+Not Started
+More about Loops
+Not Started
+Solution to Looping Problem
+Not Started
+Scratch : Animation 1
+Completed
+Scratch : Animation 2
+Not Started
+Scratch : Animation 3
+Not Started
+More on Scratch
+Not Started
+
+
+https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/blob/main/Question%20Papers/JOC%20Sep-Dec%202020.pdf
+
+https://github.com/kishanrajput23/NPTEL-The-Joy-of-Computing-using-Python
+https://www.scribd.com/document/722017600/The-Joy-of-Computing-Using-Python-PART-1
