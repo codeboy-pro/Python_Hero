@@ -208,6 +208,7 @@ D. Error
 
 ### **Q12. (Output)**
 
+
 ```python
 a = [1,2,3]
 a.append([4,5])

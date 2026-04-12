@@ -36,7 +36,13 @@ More on Scratch
 Not Started
 
 
+
+done
+
 https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/blob/main/Question%20Papers/JOC%20Sep-Dec%202020.pdf
 
 https://github.com/kishanrajput23/NPTEL-The-Joy-of-Computing-using-Python
 https://www.scribd.com/document/722017600/The-Joy-of-Computing-Using-Python-PART-1
+
+
+
