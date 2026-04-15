@@ -1,0 +1,1 @@
+- Practice is the key _ Magic Square: Hit and Trial (01–05) _ Let’s program and play _ Dobble Game – Spot the similarity (01–04) _ What is your date of birth? _ Birthday Paradox – Find your twin (01–05) _ What’s your favourite movie? \* Guess the Movie Name (01–06)
