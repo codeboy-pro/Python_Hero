@@ -1,0 +1,1 @@
+# 📚 Week 9 Topics to Cover: * Natural Language Processing (Author Stylometry) * Text Preprocessing (tokenization, stopwords removal) * Word Length Analysis * Sentiment Analysis (TextBlob) * Graphs and Networks (NetworkX) * Six Degrees of Separation * Area Calculation (Monte Carlo / simulation logic)
