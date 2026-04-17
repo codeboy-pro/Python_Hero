@@ -1,9 +1,9 @@
 Alright Pradip — now we go **full exam-mode 🔥**
 I’ll walk you through the **actual Week 9 assignment solutions step-by-step**, with:
 
-* ✔ Correct answer
-* ✔ Why it is correct (logic)
-* ✔ Exam trick / takeaway
+- ✔ Correct answer
+- ✔ Why it is correct (logic)
+- ✔ Exam trick / takeaway
 
 I’ll also reference the PDF so you know exactly where it comes from.
 
@@ -54,11 +54,11 @@ Step-by-step:
 
 2. Remove stopwords:
 
-* `"the"` ❌ removed
+- `"the"` ❌ removed
 
 3. `.isalpha()`:
 
-* All words valid ✔
+- All words valid ✔
 
 👉 Final:
 
@@ -70,8 +70,8 @@ Step-by-step:
 
 ### 🎯 Exam Trick:
 
-* **Stopwords removed using `.lower()` check**
-* Case of original word is preserved
+- **Stopwords removed using `.lower()` check**
+- Case of original word is preserved
 
 ---
 
@@ -87,9 +87,9 @@ Step-by-step:
 
 ### 🧠 Explanation:
 
-* All words removed → `tokens = []`
-* Word lengths → `[]`
-* Plot → nothing to show
+- All words removed → `tokens = []`
+- Word lengths → `[]`
+- Plot → nothing to show
 
 ---
 
@@ -142,8 +142,8 @@ fdist = FreqDist(author_word_lengths[author])
 
 ### 🧠 Explanation:
 
-* Longer words → larger values
-* Graph shifts right
+- Longer words → larger values
+- Graph shifts right
 
 ---
 
@@ -165,8 +165,8 @@ fdist = FreqDist(author_word_lengths[author])
 
 ### 🧠 Explanation:
 
-* Range: -1 to +1
-* 0 = neutral
+- Range: -1 to +1
+- 0 = neutral
 
 ---
 
@@ -217,8 +217,8 @@ the, is, of
 
 ### 🧠 Explanation:
 
-* Single words misleading
-* Whole text gives better context
+- Single words misleading
+- Whole text gives better context
 
 ---
 
@@ -241,7 +241,7 @@ the, is, of
 
 ### 🧠 Explanation:
 
-* Mixed writing styles → inconsistent lengths
+- Mixed writing styles → inconsistent lengths
 
 ---
 
@@ -271,8 +271,8 @@ nx.read_edgelist("facebook_combined.txt")
 
 ### 🧠 Explanation:
 
-* Each line = connection
-* Graph constructed
+- Each line = connection
+- Graph constructed
 
 ---
 
@@ -295,8 +295,8 @@ nx.read_edgelist("facebook_combined.txt")
 
 ### 🧠 Explanation:
 
-* Same node → path = 0
-* Useless for analysis
+- Same node → path = 0
+- Useless for analysis
 
 ---
 
@@ -352,7 +352,7 @@ for u in N:
 
 ### 🧠 Explanation:
 
-* Measures overall connectivity
+- Measures overall connectivity
 
 ---
 
@@ -374,7 +374,7 @@ for u in N:
 
 ### 🧠 Explanation:
 
-* Everyone connected closely
+- Everyone connected closely
 
 ---
 
@@ -397,7 +397,7 @@ for u in N:
 
 ### 🧠 Explanation:
 
-* 1 → 10 → 100 → 1000 connections
+- 1 → 10 → 100 → 1000 connections
 
 ---
 
@@ -419,7 +419,7 @@ for u in N:
 
 ### 🧠 Explanation:
 
-* Time complexity very high
+- Time complexity very high
 
 ---
 
@@ -459,9 +459,9 @@ for u in N:
 
 👉 If question looks confusing:
 
-* First check: **filtering applied?**
-* Then: **what is being measured? (tokens vs lengths)**
-* For graphs: **is it avg path?**
+- First check: **filtering applied?**
+- Then: **what is being measured? (tokens vs lengths)**
+- For graphs: **is it avg path?**
 
 ---
 
@@ -475,5 +475,5 @@ If you want next step:
 
 👉 I can convert this into:
 
-* 🔥 “Top 10 guaranteed questions”
-* 🔥 OR give **exact exam strategy for 90+ score (time-wise + accuracy)**
+- 🔥 “Top 10 guaranteed questions”
+- 🔥 OR give **exact exam strategy for 90+ score (time-wise + accuracy)**
